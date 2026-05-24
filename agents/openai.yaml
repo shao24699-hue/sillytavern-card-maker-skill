@@ -1,0 +1,4 @@
+interface:
+  display_name: "SillyTavern Card Maker"
+  short_description: "Create SillyTavern cards and lorebooks"
+  default_prompt: "帮我制作一套 SillyTavern 角色卡和世界书。"
